@@ -4,7 +4,8 @@ Welcome to my GitHub projects repo. Here you will find some coding projects in v
 
 ## Projects
 ### [Colour Shift](https://github.com/MayorMike/Colour-Shift-Platformer)
-A platformer-puzzle game created in GameMaker. Change into one of 3 colours to solve the puzzle. Has 3 colour themes to change between. Default, Xbox Buttons pallet, and PlayStation Buttons pallet. 
+A platformer-puzzle game created in GameMaker. Change into one of 3 colours to solve the puzzle. Has 3 colour themes to change between. Default, Xbox Buttons pallet, and PlayStation Buttons pallet.
+![de:Colour Shift Logo](ColourShiftLogo.png)
 
 ### [PhoenixRecipes](https://github.com/MayorMike/PhoenixRecipes)
 A custom set of crafting recipes for the Minecraft server PhoenixNetwork. Free for anyone to use. Documentation and history can be found at [https://phoenixnetwork.ca/docs/index.php/Phoenix_Recipes]
