@@ -15,7 +15,7 @@ This gif shows the different pallets being used.
 And yes, I am spelling "Colour" correctly. 
 
 ### [PhoenixRecipes](https://github.com/MayorMike/PhoenixRecipes)
-A custom set of crafting recipes for the Minecraft server PhoenixNetwork. Free for anyone to use. Documentation and history can be found at [https://phoenixnetwork.ca/docs/index.php/Phoenix_Recipes]
+A custom set of crafting recipes for the Minecraft server PhoenixNetwork. Free for anyone to use. Documentation and history can be found at (https://phoenixnetwork.ca/docs/index.php/Phoenix_Recipes)
 <br>
 ![de:PhoenixNetwork Logo](images/PhoenixRecipes/ServerLogo.png)
 
